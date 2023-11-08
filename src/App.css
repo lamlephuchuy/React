@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(19, 19, 107);
+}
+
+header{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 60px;
+}
+
+.btt{
+    display:flex;
+    padding: 0px 34%;
+}
+
+div{
+    display: flex;
+}
+
+div button{
+    border-radius: 0.5rem;
+    width: 90px;
+    height: 90px;
+}
+
+.drum{
+    background-image: url(\is/drum.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: red;
+}
+
+.snare{
+    background-image: url(\is/snare.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: red;
+}
+
+.floortom{
+    background-image: url(\is/floortoom.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: red;
+}
+
+.hihat{
+    background-image: url(\is/hithat.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: red;
+}
+
+.cymbal{
+    background-image: url(\is/cymbal.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: red;
+}
+
+.ridecymbal{
+    background-image: url(\is/ridecymbal.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: red;
+}
+
+.crash{
+    background-image: url(\is/crash.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: red;
+}
